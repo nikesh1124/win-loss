@@ -54,6 +54,7 @@ h3{
       font-size: 30px;
     }
     h1:hover{
+        font-size: 30px;
         cursor: pointer;
         color: rgb(250, 246, 246);
         border: 2px solid rgb(129 120 120);
